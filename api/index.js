@@ -23,11 +23,11 @@ const LANDING_PAGE = `
             NextGen Architecture
         </h1>
         <p class="text-gray-400 text-lg max-w-md mx-auto">
-            Providing high-performance edge computing and distributed systems for the modern web.
+            Providing high-performance computing and distributed systems for the modern web.
         </p>
         <div class="flex justify-center gap-4">
-            <span class="px-4 py-2 bg-white/5 border border-white/10 rounded-full text-sm font-medium">Edge Runtime</span>
-            <span class="px-4 py-2 bg-white/5 border border-white/10 rounded-full text-sm font-medium">Serverless</span>
+            <span class="px-4 py-2 bg-white/5 border border-white/10 rounded-full text-sm font-medium">Dashboard</span>
+            <span class="px-4 py-2 bg-white/5 border border-white/10 rounded-full text-sm font-medium">Contact</span>
         </div>
     </div>
 </body>
