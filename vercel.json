@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "name": "Sun Flowers",
+  "name": "Bright Memory",
   "rewrites": [
     { "source": "/(.*)", "destination": "/api/index" }
   ],
